@@ -1,0 +1,41 @@
+_version: 0.0.1
+alternative_title: A history of ancient Greek literature. Greek
+contributor:
+  translator:
+    agent_name: Menardos, Simos
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '41670'
+    url: http://www.gutenberg.org/2009/agents/41670
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BC%CE%BF%CF%82_%CE%9C%CE%B5%CE%BD%CE%AC%CF%81%CE%B4%CE%BF%CF%82
+covers:
+- cover_type: archival
+  image_path: 42397/42397-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aime
+    - Murray, George Gilbert Aimé
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+description: 'Translation of: A history of ancient Greek literature.'
+gutenberg_issued: '2013-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42397'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek literature -- History and criticism'
+- !lcc 'PA'
+- GITenberg
+title: Ιστορία της Αρχαίας Ελληνικής Λογοτεχνίας
+url: http://www.gutenberg.org/ebooks/42397
