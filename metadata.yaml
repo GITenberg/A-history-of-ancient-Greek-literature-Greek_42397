@@ -10,9 +10,7 @@ contributor:
     wikipedia: http://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BC%CE%BF%CF%82_%CE%9C%CE%B5%CE%BD%CE%AC%CF%81%CE%B4%CE%BF%CF%82
 covers:
 - cover_type: archival
-  image_path: 42397/42397-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 42397-h/images/cover.jpg
 creator:
   author:
     agent_name: Murray, Gilbert
