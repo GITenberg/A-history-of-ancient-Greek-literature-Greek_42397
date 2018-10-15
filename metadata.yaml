@@ -1,4 +1,4 @@
-_version: 0.1.0
+_version: 0.1.1
 alternative_title: A history of ancient Greek literature. Greek
 contributor:
   translator:
@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1681
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
 description: 'Translation of: A history of ancient Greek literature.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42397#book
 gutenberg_issued: '2013-03-23'
 gutenberg_type: Text
 identifiers:
